@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# ✨Hangman Game✨
+### ✨Hangman Game✨
 *Kim Desi*
 
 *Ironhack May 2021*
