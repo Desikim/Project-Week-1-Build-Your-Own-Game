@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-### ✨Hangman Game✨
+# ✨Hangman Game✨
 *Kim Desi*
 
 *Ironhack May 2021*
@@ -16,7 +16,7 @@
 I'm currently learning to code with Python. This project serves the purpose to gain experience 
 
 ## 👾Game Rules👾
-Briefly describe the rules of the game.
+No cheating!
 
 ## 💡Workflow💡
 Steps I took to create this game:
@@ -25,9 +25,8 @@ Steps I took to create this game:
 3. Start coding and test, test, test!
 
 ## 📋Organization📋
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+Happened mainly in my head...but with the help of this readme file and using softcode and #comments 
+My repository is set up...
 
 ## 🌌Links🌌
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
