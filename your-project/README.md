@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# ✨Hangman Game✨
+*Kim Desi*
 
-*[Your Cohort, Campus & Date]*
+*Ironhack May 2021*
 
 ## Content
 - [Project Description](#project-description)
@@ -12,21 +12,24 @@
 - [Organization](#organization)
 - [Links](#links)
 
-## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+## 💃Project Description💃
+I'm currently learning to code with Python. This project serves the purpose to gain experience 
 
-## Rules
+## 👾Game Rules👾
 Briefly describe the rules of the game.
 
-## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+## 💡Workflow💡
+Steps I took to create this game:
+1. Choose a game and think about the logic behind the function of it
+2. Write down the logic/single steps in softcode 
+3. Start coding and test, test, test!
 
-## Organization
+## 📋Organization📋
 How did you organize your work? Did you use any tools like a kanban board?
 
 What does your repository look like? Explain your folder and file structure.
 
-## Links
+## 🌌Links🌌
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
