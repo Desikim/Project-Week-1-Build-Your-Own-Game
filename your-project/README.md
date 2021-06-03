@@ -9,7 +9,7 @@
 
 ## 📘Content📘
 - [Project Description](#project-description)
-- [Rules](#rules)
+- [Rules](#game-rules)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
@@ -21,18 +21,22 @@ I'm currently learning to code with Python. This project serves the purpose to g
 No cheating!
 
 ## 💡Workflow💡
-Steps I took to create this game:
+A rough outline of my workflow of this project:
+
 1. Choose a game and think about the logic behind the function of it
-2. Write down the logic/single steps in softcode 
-3. Start coding and test, test, test!
+2. Write down the logic/single steps needed that come to mind in #softcode 
+3. Set up the base data of the game and create functions
+4. Test, debugg and imrpove code permanently by adding #comments 
+5. Implementing changes according to the #comments
 
 ## 🔮Organization🔮
-Happened mainly in my head...but with the help of this readme file and using softcode and #comments in a jupyter notebook
-My repository is set up...
+Happened mainly in my head...
+- #Comments and softcode for rough outline
+- GitHub project board for task overview
+- Documenting problems and ideas for improvements
 
 ## 🌌Links🌌
 Here are some links to 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Desikim/Project-Week-1-Build-Your-Own-Game)  
+[GitHub Project board](https://github.com/Desikim/Project-Week-1-Build-Your-Own-Game/projects/1)  
