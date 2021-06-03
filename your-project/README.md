@@ -2,9 +2,6 @@
 
 # ✨Hangman Game✨
 *Kim Desi*
-
-<img src="https://profile-images.xing.com/images/9d8a04b75c5fec54b4b0b81ebe699dc9-2/kim-buchner.1024x1024.jpg" alt="Kim" width="100"/>
-
 *Ironhack Data Analytics May 2021*
 
 ## 📘Content📘
