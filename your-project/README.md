@@ -13,8 +13,6 @@
 
 ## 🎮Project Description🎮
 I'm currently learning to code with Python. This project serves the purpose to gain more practical experience.
-## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
 
 ## 👾Game Rules👾
 No cheating!
